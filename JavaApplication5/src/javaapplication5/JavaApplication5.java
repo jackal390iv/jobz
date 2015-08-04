@@ -4,8 +4,7 @@
 package javaapplication5;
 
 /**
- *
- * @author walter
+ *changed
  */
 public class JavaApplication5 {
 
